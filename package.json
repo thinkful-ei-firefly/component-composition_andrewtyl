@@ -1,12 +1,12 @@
 {
-  "name": "react-playground_andrewtyl",
+  "name": "component_composition_andrewtyl",
   "version": "1.0.0",
-  "description": "",
+  "description": "Andrew Jessen-Tyler / Component Composition",
   "author": "Andrew Jessen-Tyler",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thinkful-ei-firefly/react-playground_andrewtyl"
+    "url": "https://github.com/thinkful-ei-firefly/component-composition_andrewtyl"
   },
   "main": "src/index.js",
   "private": true,
